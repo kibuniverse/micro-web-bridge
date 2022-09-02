@@ -1,9 +1,8 @@
 import { Button } from "ui";
-import {} from "bridge";
-export default function Web() {
+export default function Docs() {
   return (
     <div>
-      <h1>Web</h1>
+      <h1>Hello</h1>
       <Button />
     </div>
   );
